@@ -29,7 +29,7 @@
 #                  MACHINE LEARNING 6CCS3ML1 COURSEWORK 2
 #
 # Martin Johnston, MSc Advanced Computing
-# Student no. 20097129
+# 
 #
 # The following code has been completed to implement the Q-Learning algorithm.
 #
